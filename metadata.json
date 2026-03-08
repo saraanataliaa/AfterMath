@@ -1,0 +1,7 @@
+{
+  "name": "Aftermath",
+  "description": "Upload your essence to create a conversational digital avatar that speaks back to you.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
